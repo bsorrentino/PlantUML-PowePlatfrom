@@ -1,0 +1,15 @@
+{
+  "name": "plantuml-powerplatform",
+  "version": "1.0.0",
+  "description": "PlantUML sprites, macros, and other includes for PowerPlatfrom services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bsorrentino <bartolomeo.sorrentino@gmail.com> (http://soulsoftware-bsc.blogspot.it/)",
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^7.2.2"
+  }
+}
