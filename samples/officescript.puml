@@ -2,11 +2,11 @@
 
 'autonumber
 
-!include powerapps.png.puml
-!include powerautomate.png.puml
-!include excel.png.puml
-!include sharepoint.png.puml
-!include osts.png.puml
+!include dist/powerapps.png.puml
+!include dist/powerautomate.png.puml
+!include dist/excel.png.puml
+!include dist/sharepoint.png.puml
+!include dist/osts.png.puml
 
 left to right direction
 'top to bottom direction

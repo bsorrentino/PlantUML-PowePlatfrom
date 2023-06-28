@@ -2,15 +2,15 @@
 
 'autonumber
 
-!include powerapps.png.puml
-!include powerautomate.png.puml
-!include dataverse.png.puml
-!include excel.png.puml
-!include outlook.png.puml
-!include function.png.puml
-!include aibuilder.png.puml
-!include sharepoint.png.puml
-!include osts.png.puml
+!include dist/powerapps.png.puml
+!include dist/powerautomate.png.puml
+!include dist/dataverse.png.puml
+!include dist/excel.png.puml
+!include dist/outlook.png.puml
+!include dist/function.png.puml
+!include dist/aibuilder.jpg.puml
+!include dist/sharepoint.png.puml
+!include dist/osts.png.puml
 
 left to right direction
 'top to bottom direction
